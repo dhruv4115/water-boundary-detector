@@ -9,3 +9,5 @@ numpy
 albumentations
 scikit-learn
 rasterio
+
+#source venv/bin/activate
