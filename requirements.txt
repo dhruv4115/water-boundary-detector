@@ -8,4 +8,4 @@ pillow
 numpy
 albumentations
 scikit-learn
-rasterio   # optional - only if you want GeoTIFF → lat/lon conversion
+rasterio
